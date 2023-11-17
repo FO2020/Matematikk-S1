@@ -3,6 +3,17 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
+
+	<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true,
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
 \begin{tcolorbox}[width=\textwidth ,colback={ lightgray}]
 		\part*{DEL 1 (Uten hjelpemidler)}
 	\end{tcolorbox}
@@ -427,19 +438,7 @@ Første finner vi effekten av lydkilden (rad 11) så finner vi ut hva blir lydin
 Vi dropper den negative løsningen og får at avstanden må være minst 185,114 m for at lydstyrken skal være mindre enn $130 \,dB$.
 
 
-
 	
-		
-	<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']],
-      processEscapes: true,
-    },
-    "HTML-CSS": { availableFonts: ["TeX"] }
-  });
-</script>	
 		
 				
 \end{document}
