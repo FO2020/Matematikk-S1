@@ -1,8 +1,8 @@
 </head>
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>makeatletter
-	\newpage 		
+</script>
+
 \begin{tcolorbox}[width=\textwidth ,colback={ lightgray}]
 		\part*{DEL 1 (Uten hjelpemidler)}
 	\end{tcolorbox}
@@ -430,11 +430,7 @@ Vi dropper den negative løsningen og får at avstanden må være minst 185,114 
 
 	
 		
-		
-		
-				
-\end{document}
-<script type="text/x-mathjax-config">
+	<script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -443,4 +439,8 @@ Vi dropper den negative løsningen og får at avstanden må være minst 185,114 
     },
     "HTML-CSS": { availableFonts: ["TeX"] }
   });
-</script>
+</script>	
+		
+				
+\end{document}
+
