@@ -1,3 +1,7 @@
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 \documentclass[12pt, a4pape]{article} % 'twoside' when printing
 \pdfcompresslevel=9
 \usepackage[margin=2.5cm, twoside]{geometry}
