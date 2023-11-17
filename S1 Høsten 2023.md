@@ -608,3 +608,13 @@ Vi dropper den negative løsningen og får at avstanden må være minst 185,114 
 		
 				
 \end{document}
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true,
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
